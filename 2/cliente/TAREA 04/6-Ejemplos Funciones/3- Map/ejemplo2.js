@@ -1,0 +1,1 @@
+[0, 1, 2, 3].map(value => console.log(value + 1));

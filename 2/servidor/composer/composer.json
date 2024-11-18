@@ -1,0 +1,7 @@
+{
+    "name": "root/composer",
+    "description": "ejemplo",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {}
+}

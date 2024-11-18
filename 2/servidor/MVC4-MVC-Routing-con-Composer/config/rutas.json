@@ -1,0 +1,18 @@
+{
+  "/":{
+    "controller": "MainController",
+    "action":   "main"
+  },
+  "/detalle":{
+    "controller":"DetalleController",
+    "action": "detail"
+  },
+  "/create":{
+    "controller":"CreateController",
+    "action": "obtener"
+  },
+  "/delete":{
+    "controller":"DeleteController",
+    "action": "delete"
+  }
+}

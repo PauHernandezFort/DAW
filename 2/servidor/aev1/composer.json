@@ -1,0 +1,17 @@
+{
+    "name": "root/aev1",
+    "description": "actividad evaluabble",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pau H"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "aev1\\": "src/"
+        }
+    }
+}

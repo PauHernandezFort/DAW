@@ -1,0 +1,22 @@
+{
+  "/":{
+    "controller": "MainController",
+    "action":   "main"
+  },
+  "/detalle":{
+    "controller":"DetalleController",
+    "action": "detail"
+  },
+  "/addTask": {
+    "controller": "MainController",
+    "action": "addTask"
+  },
+  "/deleteTask": {
+    "controller": "MainController",
+    "action": "deleteTask"
+  },
+  "/saveTask": {
+    "controller": "MainController",
+    "action": "saveTask"
+  }
+}
